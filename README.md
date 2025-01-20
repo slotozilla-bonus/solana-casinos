@@ -27,7 +27,7 @@ Solana is an open-source network that allows you to deposit and withdraw money e
 
 In terms of security, Solana is a decentralized crypto network that utilizes advanced security measures to protect your data. Additionally, it provides a buyer protection program to protect you from risks and financial losses during crypto gambling.
 
-<h2>Benefits of Using Solana at Online Casinos</h2>
+<h3>Benefits of Using Solana at Online Casinos</h3>
 
 The importance of reliable payment options at Solana casinos cannot be overstated. They build trust among players and ensure seamless transactions. Beyond being an efficient and accessible blockchain, here are several other reasons why Solana casinos are worth considering:
 * **Speed & scalability:** Solana offers fast transactions. You can withdraw and deposit money to play games in four milliseconds. Unlike other cryptocurrencies, the SOL blockchain completes over 100 transactions per second.
